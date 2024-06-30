@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* Tela vermelha do topo das Páginas */
+.topo {
+    background-color: red;
+    color: #000;
+    font-size: 50px;
+    text-align: center;
+    height: 100px;
+    width: 100vw;
+    padding-top: 30px;
+}
+
+/* Link junto do topo vermelho */
+#linkado {
+    background-color: red;
+    color: #000;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* Bloco com links dos teste */
+.blocoTestes {
+    font-size: 50px;
+    border: solid 10px;
+    text-align: center;
+    margin-left: 1%;
+    margin-right: 75%;
+    background-color: orange;
+    border-color: #000;
+}
+
+/* Tela verde do topo da Página primária */
+.pai1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: #1eff00;
+    color: #000;
+    font-weight: bold;
+    height: 20vh;
+    padding-top: 30px;
+    width: 100vw;
+    font-size: 15vh;
+}
+
+/* Teste 1 DEVQUEST */
+.testeD1 {
+    background-color: orangered;
+    border: solid;
+    text-align: center;
+    font-size: 50px;
+    width: 100vw;
+    font-weight: bold;
+}
+
+.teste1 {
+    font-size: 20px;
+    border: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: grey;
+}
+
+/* Páragrafos teste 1 DEVQUEST */
+
+#P1 {
+    background-color: #F5F5F5;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#P2 {
+    margin-top: 40px;
+    background-color: #F0CCE2;
+    font-size: 20px;
+    padding: 20px;
+}
+
+/* Tabelas teste 1 DEVQUEST */
+
+.tab1 {
+    background-color: #BB86FC;
+    color: white;
+}
+
+.tab2 {
+    background-color: #00C4B4;
+    color: #fff;
+}
+
+td {
+    background-color: #424250;
+}
